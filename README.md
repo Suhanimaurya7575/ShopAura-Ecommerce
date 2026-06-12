@@ -58,9 +58,9 @@ ShopAura allows customers to register, browse products by category, search and f
 
 | Module | Link |
 |---|---|
-| 🛒 Customer Storefront | `shop-aura-ecommerce.vercel.app` |
-| 🛠️ Admin Dashboard | `shop-aura-ecommerce.vercel.app` |
-| 🔗 Backend API | ` https://shopaura-ecommerce.onrender.com` |
+| 🛒 Customer Storefront | https://shop-aura-ecommerce.vercel.app |
+| 🛠️ Admin Dashboard | https://shop-aura-ecommerce-o1ia-alu2441qe.vercel.app |
+| 🔗 Backend API | https://shopaura-ecommerce.onrender.com |
 
 
 
@@ -217,8 +217,7 @@ ShopAura/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ShopAura-Ecommerce.git
-cd ShopAura-Ecommerce
+https://github.com/Suhanimaurya7575/ShopAura-Ecommerce.git
 ```
 
 ### 2️⃣ Install Dependencies
