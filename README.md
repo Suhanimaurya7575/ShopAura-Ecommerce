@@ -58,9 +58,9 @@ ShopAura allows customers to register, browse products by category, search and f
 
 | Module | Link |
 |---|---|
-| 🛒 Customer Storefront | `<add-your-deployed-frontend-url-here>` |
-| 🛠️ Admin Dashboard | `<add-your-deployed-admin-url-here>` |
-| 🔗 Backend API | `<add-your-deployed-backend-url-here>` |
+| 🛒 Customer Storefront | `shop-aura-ecommerce.vercel.app` |
+| 🛠️ Admin Dashboard | `shop-aura-ecommerce.vercel.app` |
+| 🔗 Backend API | ` https://shopaura-ecommerce.onrender.com` |
 
 
 
